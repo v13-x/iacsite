@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>iAcademy - Home</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <!-- Favicons -->
+  <link href="assets/img/IAC_LOGO.png" rel="icon">
+  <link href="assets/img/IAC_LOGO.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Mentor
+  * Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
+  * Updated: Aug 07 2024 with Bootstrap v5.3.3
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header d-flex align-items-center sticky-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center">
+
+      <a href="index.php" class="logo d-flex align-items-center me-auto">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <img src="assets/img/IAC_TITLE.png">
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="index.php" class="active">Home<br></a></li>
+          <li><a href="courses.html">Programs</a></li>
+          <li><a href="contact.html">Contacts</a></li>
+          <li><a href="administration.html">Administration</a></li>
+          <li><a href="facility.html">Facility</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section dark-background">
+
+      <img src="assets/img/iacc.webp" alt="" data-aos="fade-in">
+
+      <div class="container">
+        <h2 data-aos="fade-up" data-aos-delay="100">Dare to be different.<br>Be a Game Changer.</h2>
+        <p data-aos="fade-up" data-aos-delay="200">Creativity Meets Capability.</p>
+        <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
+          <a href="courses.html" class="btn-get-started">Get Started</a>
+        </div>
+      </div>
+
+    </section><!-- /Hero Section -->
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-up" data-aos-delay="100">
+            <img src="assets/img/gamechanger.jpg" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-6 order-2 order-lg-1 content" data-aos="fade-up" data-aos-delay="200">
+            <h3>Senior High School</h3>
+            <p class="fst-italic">
+              iACADEMY SHS is the preparatory stage where students' skills are enhanced in computing, business, and design and the arts. Powered by gamification (GAME) and elevated learning experiences (ELX), students are given opportunities to acquire essential contents while preparing for relevant competencies needed by the industries. Lessons are scaffolded to gradually build the learning outcomes and produce solutions to real-world problems. In addition, the SHS gives premium to the holistic development of students through co/extra-curricular activity integrations, Homeroom guidance, and immersion.
+            </p>
+            <ul>
+              <li><i class="bi bi-check-circle"></i> <span>iACADEMY develops game changers to lead the advancement of society.</span></li>
+              <li><i class="bi bi-check-circle"></i> <span>To reinvent education and address the ever-changing needs of industry.</span></li>
+            </ul>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /About Section -->
+
+    <!-- Counts Section -->
+    <section id="counts" class="section counts dark-background">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span>324+</span>
+              <p>Students</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span>7</span>
+              <p>Courses</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span>23+</span>
+              <p>Years</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+
+
+        </div>
+
+      </div>
+
+    </section><!-- /Counts Section -->
+
+    <!--Graph -->
+<?php
+$data = [
+    "HUMSS" => 9,
+    "ABM" => 18,
+    "FD" => 8,
+    "SD" => 66,
+    "MMA" => 104,
+    "ANI" => 46,
+    "GI" => 35,
+];
+
+$dataPoints = [];
+foreach ($data as $label => $value) {
+    $dataPoints[] = ["label" => $label, "y" => $value];
+}
+?>
+<!DOCTYPE HTML>
+<html>
+<head>  
+    <!-- Load Open Sans font -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+<script>
+window.onload = function () {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+	animationEnabled: true,
+	exportEnabled: true,
+	theme: "light1",
+	backgroundColor: "#111214",  // dark background
+	title:{
+		text: "Senior High School Enrollees",
+		fontColor: "#FFFFFF",
+        fontFamily: "Open Sans"
+	},
+	axisX: {
+		labelFontColor: "#FFFFFF",
+		tickColor: "#555",
+		lineColor: "#555",
+        fontFamily: "Open Sans"
+	},
+	axisY:{
+		includeZero: true,
+		labelFontColor: "#FFFFFF",
+		tickColor: "#555",
+		lineColor: "#555",
+        fontFamily: "Open Sans"
+	},
+	data: [{
+		type: "column",
+		indexLabel: "{y}",
+		indexLabelFontColor: "#FFFFFF",
+		indexLabelPlacement: "outside",
+		color: "#014FB3",  // bar color
+		dataPoints: <?php echo json_encode($dataPoints, JSON_NUMERIC_CHECK); ?>
+	}]
+});
+chart.render();
+
+}
+</script>
+</head>
+<body>
+<div class="chart-wrapper">
+    <div id="chartContainer"></div>
+</div>
+<script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
+</body>
+      <!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="course-item">
+              <img src="assets/img/shs-sd.jpg" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <p class="category">SD</p>
+                </div>
+
+                <h3><a href="courses.html">Software Development</a></h3>
+                <p class="description">EThe Software Development (SD) Strand provides students with the skills and knowledge they need to work in the co computing-related courses in higher education or engage in computer science and information technology. SD focuses on Data Structures, programming such as Core Java, Web, and Object-Oriented and Mobile Computing.</p>
+              </div>
+            </div>
+          </div> <!-- End Course Item-->
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="course-item">
+              <img src="assets/img/mma.jpg" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <p class="category">MMA</p>
+                </div>
+
+                <h3><a href="courses.html">Arts and Design (Media and Visual Arts)</a></h3>
+                <p class="description">Multimedia Arts (MMA) Strand is designed to provide students with multidisciplinary skills and knowledge in the creative industries. The strand develops students' creative talents in order to create innovative content for various platforms such as print, web, animation and film. MMA focuses on basic photography and videography, layout design, sound mixing, music authoring and vector graphics.</p>
+              </div>
+            </div>
+          </div> <!-- End Course Item-->
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="course-item">
+              <img src="assets/img/ani.jpg" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <p class="category">ANI</p>
+                </div>
+
+                <h3><a href="courses.html">Animation</a></h3>
+                <p class="description">Animation (ANI) Strand provides students with opportunities to express their visual creativity through drawing and storytelling with the aid of computer technology. ANI focuses on Figure and Freehand drawing, traditional animation principles, digital illustration techniques as well as 2D and 3D methodology.</p>
+              </div>
+            </div>
+          </div> <!-- End Course Item-->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Courses Section -->
+
+    <!-- Trainers Index Section -->
+    <section id="trainers-index" class="section trainers-index">
+
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
+            <div class="member">
+              <img src="assets/img/trainers/principle.png" class="img-fluid" alt="">
+              <div class="member-content">
+                <h4>Mr. Paolo Noceda</h4>
+                <span>Principal</span>
+                <p>
+                  Warm greetings, and welcome to iACADEMY Senior High School.
+
+It is with great honor and pride that I extend my heartfelt welcome to all students, parents, faculty, and visitors exploring our institution. At iACADEMY Senior High School, we are deeply committed to delivering a transformative educational experience—one that nurtures academic excellence, character development, and industry-readiness.
+
+With over two decades of academic distinction and more than 300 students currently under our care, iACADEMY continues to stand as a beacon of innovation and progressive learning. Our specialized programs are carefully designed not only to meet the evolving demands of education but also to shape learners into Game Changers—individuals who challenge norms, inspire others, and lead with purpose.
+
+We believe in empowering future leaders who think critically, act ethically, and adapt confidently in a rapidly changing world. Through our student-centered approach, dynamic curriculum, and passionate educators, we aim to prepare our students to make meaningful contributions to both industry and society.
+
+As you navigate this website and learn more about our mission, I invite you to become part of the iACADEMY community—a space where Game Changers are made, and where innovation and passion come together to shape a better future.
+
+Thank you, and once again, welcome. <br>
+<b>- Mr. Paolo Noceda</b>
+                </p>
+                <div class="social">
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          
+
+        </div>
+
+      </div>
+
+    </section><!-- /Trainers Index Section -->
+
+  </main>
+
+  <footer id="footer" class="footer position-relative dark-background">
+
+    <div class="container footer-top">
+      <div class="row gy-4">
+        <div class="col-lg-4 col-md-6 footer-about">
+          <a href="index.php" class="logo d-flex align-items-center">
+            <span class="sitename">Makati</span>
+          </a>
+          <div class="footer-contact pt-3">
+            <p><i class="bi bi-map"></i> iACADEMY Nexus, 7434</p>
+            <p>Yakal St., Makati City</p>
+            <p class="mt-3"><strong>Phone:</strong> <span>(02) 8889 5555</span></p>
+            <p><strong>Email:</strong> <span>inquire@iacademy.edu.ph</span></p>
+          </div>
+          <div class="social-links d-flex mt-4">
+            <a href="https://x.com/iacademy_edu?lang=en" target="_blank"><i class="bi bi-twitter-x"></i></a>
+            <a href="https://www.facebook.com/iACADEMY" target="_blank"><i class="bi bi-facebook"></i></a>
+            <a href="https://www.instagram.com/iacademy_edu/" target="_blank"><i class="bi bi-instagram"></i></a>
+            <a href="https://www.tiktok.com/@iacademyofficial" target="_blank"><i class="bi bi-tiktok"></i></a>
+          </div>
+        </div>
+
+
+
+
+
+      </div>
+    </div>
+
+    <div class="container copyright text-center mt-4">
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">iAcademy</strong> <span>All Rights Reserved</span></p>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you've purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+
+  </footer>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
