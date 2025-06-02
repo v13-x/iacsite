@@ -143,22 +143,6 @@
     </section><!-- /Counts Section -->
 
     <!--Graph -->
-<?php
-$data = [
-    "HUMSS" => 9,
-    "ABM" => 18,
-    "FD" => 8,
-    "SD" => 66,
-    "MMA" => 104,
-    "ANI" => 46,
-    "GI" => 35,
-];
-
-$dataPoints = [];
-foreach ($data as $label => $value) {
-    $dataPoints[] = ["label" => $label, "y" => $value];
-}
-?>
 <!DOCTYPE HTML>
 <html>
 <head>  
@@ -197,7 +181,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		indexLabelFontColor: "#FFFFFF",
 		indexLabelPlacement: "outside",
 		color: "#014FB3",  // bar color
-		dataPoints: <?php echo json_encode($dataPoints, JSON_NUMERIC_CHECK); ?>
+		dataPoints: [{"label":"HUMSS","y":9},{"label":"ABM","y":18},{"label":"FD","y":8},{"label":"SD","y":66},{"label":"MMA","y":104},{"label":"ANI","y":46},{"label":"GI","y":35}]
 	}]
 });
 chart.render();
